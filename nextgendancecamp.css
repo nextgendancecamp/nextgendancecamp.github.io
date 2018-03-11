@@ -1,7 +1,7 @@
 body {
   font-family: Sans-Serif;
-  background-color: #465ba3;
-  color: white
+  background-color: #354582;
+  color: #d7ddf2;
 }
 
 div.header{
@@ -9,11 +9,8 @@ div.header{
 }
 
 h1.header{
-    color: white;
     font-size: 48pt;
-    margin: 10px;
     font-weight: normal;
-    font-color: white;
 }
 
 .wrapper{
@@ -29,7 +26,7 @@ h1.header{
 }
 
 .content{
-    padding: 10px;
+    line-height: 1.5;
 }
 
 table.wrapper{
