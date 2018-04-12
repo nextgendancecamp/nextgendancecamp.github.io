@@ -5,10 +5,12 @@
     --section-header-color: #166B83;
     --main-text-color: #0E5E7F;
     --sidebar-link-color: #166B83;
+
+    --header-font: 'Audiowide', sans-serif;
+    --body-font: 'PT Serif', serif;
 }
 
 body {
-  font-family: Sans-Serif;
   background-color: var(--main-background-color);
   margin: 0px;
 }
@@ -27,6 +29,7 @@ div.header-inner{
 }
 
 h1.header{
+    font-family: var(--header-font);
     font-size: 48pt;
     font-weight: normal;
     color: var(--header-text-color);
@@ -37,6 +40,7 @@ h1.header{
     bottom: 0px;
     left: 200px;
     color: var(--subheader-text-color);
+    font-family: var(--header-font);
 }
 
 div.wrapper{
@@ -48,11 +52,13 @@ div.wrapper{
 
 h3 {
     color: var(--section-header-color);
+    font-family: var(--header-font);
 }
 
 p{
     line-height: 1.5;
     color: var(--main-text-color);
+    font-family: var(--body-font);
 }
 
 table.wrapper{
@@ -77,6 +83,7 @@ div.sidebar{
 .link-text{
     text-decoration: none;
     color: var(--sidebar-link-color);
+    font-family: var(--header-font);
 }
 
 .divider{
