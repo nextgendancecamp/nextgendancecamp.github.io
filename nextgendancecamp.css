@@ -1,10 +1,10 @@
 :root {
-    --main-background-color: #c7e7f9;
-    --header-text-color: #d7ddf2;
-    --subheader-text-color: #d7ddf2;
-    --section-header-color: #166B83;
-    --main-text-color: #0E5E7F;
-    --sidebar-link-color: #166B83;
+    --main-background-color: #ededf8;
+    --header-text-color: #c7cde0;
+    --subheader-text-color: #87a3af;
+    --section-header-color: #0c404f;
+    --main-text-color: #065F8B;
+    --sidebar-link-color: #0c404f;
 
     --header-font: 'Audiowide', sans-serif;
     --body-font: 'PT Serif', serif;
