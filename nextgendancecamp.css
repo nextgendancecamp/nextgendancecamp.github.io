@@ -59,8 +59,8 @@ td.sidebar{
 }
 
 div.sidebar{
-    width: 160px;
-    margin-left: 0px;
+    width: 140px;
+    margin-left: 20px;
     margin-right: 40px;
 }
 
@@ -77,7 +77,7 @@ div.sidebar{
 
 .link-text{
     text-decoration: none;
-    color: #290029;
+    color: #d7ddf2;
 }
 
 .tech-link{
