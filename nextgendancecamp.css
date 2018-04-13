@@ -40,6 +40,7 @@ h1.header{
     left: 200px;
     color: var(--subheader-text-color);
     font-family: var(--header-font);
+    font-weight: normal;
 }
 
 div.wrapper{
@@ -53,6 +54,7 @@ div.wrapper{
 h3, h2 {
     color: var(--section-header-color);
     font-family: var(--header-font);
+    font-weight: normal;
 }
 
 p{
