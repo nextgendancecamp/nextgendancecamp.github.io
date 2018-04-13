@@ -90,3 +90,7 @@ div.sidebar{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+b {
+    font-weight: 600;
+}
