@@ -5,13 +5,7 @@ layout: default
 
 ### What is this event?
 
-This is a three-day residential contra dance camp. Roughly, here’s what the weekend will look like:
-
-**Friday evening:**  arrive at camp, settle in. Dinner and contra dance, late night couple dancing.
-
-**Saturday:**  workshops during the day, (dancing, singing, jamming, organizing, calling, sound engineering, etc...), dance party at night.
-
-**Sunday:**  brunch, a farewell dance, and goodbyes.
+This is a three-day residential contra dance camp. You can get a sense of what it's like by looking at our [2018 performers and schedule](/2018.html)
 
 ### Who is this event for?
 
