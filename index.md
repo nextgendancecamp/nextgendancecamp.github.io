@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Thanks for making Next Gen Dance Camp 2018 a success!  Stay tuned for information about 2019 here.
+## Thanks for making Next Gen Dance Camp 2018 a success!  We will return October 2020. Stay tuned for details!
 
 ### What is this event?
 
