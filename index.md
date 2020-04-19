@@ -1,9 +1,16 @@
 ---
 layout: default
 ---
-## Thanks for making Next Gen Dance Camp 2018 a success!  Our next event will be October 2-4, 2020. Stay tuned for details!
+## Next camp:  October 2-4, 2020
 
-### What is this event?
+### COVID-19  Update
+
+October is a long way away, and it's hard to tell now whether it will be safe to hold a dance camp then.  Our venue, Kiwanis Camp, has cancelled all of their summer programming but is still on for the fall at this point. Obviously, if they cancel their fall season, we won't have camp. However, given the inherent risks of dance, we may still chose to cancel camp even if the venue is open- we fully intend to err on the side of caution.
+
+Given all that,  we've decided to **postpone registration**.  We'll be keeping an eye on developments, and keep you posted here and via email and facebook about our plans and any possible future registration dates.
+
+
+## What is this event?
 
 This is a three-day residential contra dance camp. You can get a sense of what it's like by looking at our [2018 performers and schedule](/2018.html).
 
